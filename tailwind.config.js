@@ -10,7 +10,7 @@ module.exports = {
         accent: '#FFA500',      // Orange (used for the star rating)
         success: '#00C853',     // Delivered icon green
         dark: '#212121',        // Main text
-        light: '#FFFFFF',       // Card and background whites
+        light: '#f3f5f5',       // Card and background whites
         muted: '#9E9E9E',       // Subtext like “Discount 5%”
         border: '#E0E0E0',      // Line separators and borders
       },
@@ -18,4 +18,3 @@ module.exports = {
   },
   plugins: [],
 }
-
